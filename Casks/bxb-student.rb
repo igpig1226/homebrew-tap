@@ -1,6 +1,6 @@
 cask "bxb-student" do
   version "1.0.2"
-  sha256 "10e17464e9788acac62da70f4ddc8925104f97861b587261de993a8e745d8f26"
+  sha256 "0841ae19f7a69c26736c054cbba2273288a90b8a832766e0ff9bcbd2575c3077"
 
   url "https://github.com/GRAY-XY/BXB_tools/releases/download/v1.3.0/BXB_Student_macOS_v1.0.2.dmg"
   name "BXB Student"
