@@ -1,9 +1,8 @@
-# 这个文件由 GitHub Actions 自动更新，不要手动修改
 cask "bxb-student" do
-  version "1.3.0"
-  sha256 :no_check  # 首次占位，Actions 构建后自动填入真实 SHA256
+  version "1.0.2"
+  sha256 "503e25f279237d2a155df57a600d2128a733255acf7fa2e20f14d8646971f586"
 
-  url "https://github.com/GRAY-XY/BXB_tools/releases/download/v#{version}/BXB_Student_macOS_v#{version}.dmg"
+  url "https://github.com/GRAY-XY/BXB_tools/releases/download/v1.3.0/BXB_Student_macOS_v1.0.2.dmg"
   name "BXB Student"
   desc "班学帮学生桌面工具"
   homepage "https://github.com/GRAY-XY/BXB_tools"
@@ -23,3 +22,4 @@ cask "bxb-student" do
     "~/Library/Logs/BXB Student",
   ]
 end
+
